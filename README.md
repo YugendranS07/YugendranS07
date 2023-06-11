@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://syugendran07.000webhostapp.com/](https://syugendran07.000webhostapp.com/)
 
-- 💬 Ask me about **Developing Applications, Debugging, Websites,**
+- 💬 Ask me about **Developing Applications, Debugging, Websites.**
 
 - 📫 How to reach me **syugicontact@gmail.com**
 
